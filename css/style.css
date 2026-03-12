@@ -2,15 +2,15 @@
    BIẾN MÀU SẮC & THIẾT LẬP CHUNG
 ========================================= */
 :root {
-  --cherry-blossom-pink:     #FFCDD2;      /* đỏ nhạt ấm, accent nhẹ nhàng, tươi sáng */
-  --cherry-blossom-light:    #FFF5F5;      /* trắng kem pha đỏ rất nhạt, nền sạch sẽ may mắn */
-  --cherry-blossom-white:    #FEFAFD;      /* trắng ivory ấm, luxury */
-  --cherry-blossom-deep:     #C8102E;      /* đỏ lì xì truyền thống – đỏ may mắn chính, rực rỡ & ấm áp */
-  --gold-light:              #FFCD00;      /* vàng kim sáng, tượng trưng tài lộc, nổi bật cực đẹp trên đỏ */
-  --text-elegant:            #4A0000;      /* đỏ đậm nâu ấm, chữ tinh tế, dễ đọc trên nền sáng */
-  --shadow-elegant:          rgba(200, 16, 46, 0.25);  /* bóng đỏ may mắn nhẹ, mềm mại */
-  --white:                   #FFFFFF;
-  --gradient-sakura:         linear-gradient(145deg, #FFEBEE 0%, #FFCDD2 100%);  /* gradient đỏ nhạt ấm, tươi sáng, sang trọng */
+    --cherry-blossom-pink: #FFB7C5;
+    --cherry-blossom-light: #FFE4E9;
+    --cherry-blossom-white: #FFF9FB;
+    --cherry-blossom-deep: #FF8A9F;
+    --gold-light: #D4B996;
+    --text-elegant: #6D5B7A;
+    --shadow-elegant: rgba(255, 183, 197, 0.3);
+    --white: #FFFFFF;
+    --gradient-sakura: linear-gradient(145deg, #FFF5F8 0%, #FFE9EF 100%);
 }
 * {
     margin: 0;
